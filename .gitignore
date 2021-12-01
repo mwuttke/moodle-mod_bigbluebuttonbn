@@ -1,0 +1,14 @@
+/.buildpath
+/.project
+/.settings*
+/config.php
+/deploy*
+/moodle-plugin-ci/
+/output*
+/node_modules/
+/ci
+
+/vendor/*
+!/vendor/firebase/
+
+.DS_Store
